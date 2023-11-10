@@ -4,7 +4,7 @@ This project implements an NLP chatbot using Dialogflow. The chatbot includes fu
 
 ## Chatbot Demo
 
-Check out the live demo of the chatbot [here](#). (Replace "#" with your actual chatbot link)
+Check out the live demo of the chatbot [here](https://bot.dialogflow.com/d30e9587-4001-4028-bed0-072fce3bbfcd).
 
 ## Files
 
@@ -14,12 +14,6 @@ Check out the live demo of the chatbot [here](#). (Replace "#" with your actual 
 
 3. **generic_helper.py**: Contains generic helper functions, including session ID validation.
 
-## Getting Started
 
-To set up and run the chatbot, follow these steps:
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
